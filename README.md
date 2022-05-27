@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sohel Arman
-- 👀 I’m Currently Wordking as a WordPress Developer
+- 👀 I’m Currently Working as a WordPress Developer
 - 🌱 I’m currently learning Full Stack Development with JS
 - 📫 You can reach me at contactwithsohel140@gmail.com
 
